@@ -4,6 +4,8 @@ import PrimeVue from 'primevue/config';
 
 // Importa solo los estilos básicos necesarios
 // Componentes básicos
+// nuevo cambio
+
 import 'primeicons/primeicons.css'; // Iconos
 
 const app = createApp(App);
