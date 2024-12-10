@@ -3,9 +3,7 @@ import App from './App.vue';
 import PrimeVue from 'primevue/config';
 
 // Importa solo los estilos básicos necesarios
-// Componentes básicos
-// nuevo cambio
-//se agrego una nueva funcion
+// Cambio en el codigo
 
 import 'primeicons/primeicons.css'; // Iconos
 
